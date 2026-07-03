@@ -37,7 +37,7 @@ Interactive Dashboard (Power BI)
 Flipkart-Sales-Analysis-Python-PowerBI/
 │
 ├── Dashboard
-│   └── flipkart_sales_dashboard.png
+│   └── Flipkart_sales_dashboard.png
 │
 ├── Power BI
 │   └── power bi.pbix
