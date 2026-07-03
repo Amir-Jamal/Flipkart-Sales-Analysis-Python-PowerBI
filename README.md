@@ -150,7 +150,37 @@ The Power BI dashboard provides an interactive overview of Flipkart product data
 - Discount analysis
 - Interactive filtering and drill-down capabilities
 
-- ---
+---
+
+---
+
+# 💡 Business Recommendations
+
+Based on the dashboard insights, the following actions could help improve business performance.
+
+## 📦 Grow Where the Catalog Already Wins
+
+Clothing and Jewellery dominate the product catalog. Increasing assortment depth and marketing investment in these categories while reviewing underrepresented categories could unlock additional growth.
+
+---
+
+## 🏷️ De-Risk Brand Concentration
+
+A few brands account for a significant share of product listings. Expanding partnerships with additional brands may reduce dependency and improve catalog diversity.
+
+---
+
+## 💎 Re-Examine the Premium Segment
+
+Budget and Mid-Range products represent nearly 90% of the catalog. Exploring opportunities to expand the Premium segment could improve margins and attract higher-value customers.
+
+---
+
+## 💸 Audit High-Discount Brands
+
+Brands with consistently high discounts should be reviewed to determine whether discounts are part of a long-term pricing strategy or indicate pricing inefficiencies.
+
+---
 
 ## 💡 Key Business Insights
 
